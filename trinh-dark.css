@@ -4503,3 +4503,8 @@ span.p-invite_users_input__label_title {color: #ccc; }
 
 .p-threads_footer__info_tooltip { color: #818181; }
 
+.c-sidebar_menu__list_item { color: #ccc; }
+
+.p-prefs_modal__radiogroup .p-prefs_modal__radio_decorator { background: #222; }
+
+.p-prefs_modal__content_container .c-basic-select { color: #000; }
