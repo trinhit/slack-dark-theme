@@ -992,7 +992,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message--sli_highlight_negative .c-message__label { background: rgba(0, 0, 0, 0.1); }
 
-.c-message--resend .c-message__body { color: #949494; }
+.c-message--resend .c-message__body { color: #949494; font-weight: 100; }
 
 .c-message--deleting { background: rgba(191, 54, 12, 0.6); }
 
@@ -1008,7 +1008,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__sender .c-emoji__text_mode_icon { color: #949494; }
 
-.c-message__body { color: #e6e6e6; }
+.c-message__body { color: #e6e6e6; font-weight: 100; }
 
 .c-message__body--unknown { background: rgba(84, 84, 84, 0.1); }
 
