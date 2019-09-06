@@ -4457,3 +4457,18 @@ a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link { color: #d1ea4b
 
 .p-invite_members_form__pricing_banner {color: #bdb5bd; }
 
+.p-channel_create_modal strong {color: #ccc; }
+
+.p-channel_name_input__input .c-input_text_icon__icon {color: #ccc; }
+
+span.p-channel_create_modal__label_title {color: #ccc; }
+
+span.p-invite_users_input__label_title {color: #ccc; }
+
+.p-channel_create_modal__input_subtext {color: #5f5e5f; }
+
+.c-hint {color: #5f5e5f; }
+
+.p-invite_users_input__input_subtext {color: #5f5e5f; }
+
+.p-channel_create_modal__sub_section_copy_body {color: #5f5e5f; }
