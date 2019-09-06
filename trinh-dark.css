@@ -4498,3 +4498,6 @@ span.p-invite_users_input__label_title {color: #ccc; }
 .p-channel_sidebar__channel--selected:before, .p-channel_sidebar__channel--selected:hover:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__channel--selected:after, .p-channel_sidebar__channel--selected:hover:after, .p-channel_sidebar__link--selected:after, .p-channel_sidebar__link--selected:after {color: #fff67b; }
 
 .p-channel_sidebar__channel--selected .p-channel_sidebar__name {color: #fff67b; }
+
+.p-channel_sidebar__channel--selected:before, .p-channel_sidebar__channel--selected:hover:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__channel--selected:after, .p-channel_sidebar__channel--selected:hover:after, .p-channel_sidebar__link--selected:after, .p-channel_sidebar__link--selected:after { color: #fff67b; }
+
