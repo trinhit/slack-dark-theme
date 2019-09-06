@@ -4440,3 +4440,7 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .c-menu_item__description { color: #ccc; }
 
 .c-menu_item__link_icon { color: #ccc; }
+
+.c-pillow_file__swap .c-pillow_file__slide { background: inherit; }
+
+a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link { color: #d1ea4b; }
