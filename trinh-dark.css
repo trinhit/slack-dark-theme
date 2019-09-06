@@ -1002,9 +1002,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__broadcast_preamble_outer, .c-message__broadcast_preamble { color: #949494; }
 
-.c-message__sender { color: #e6e6e6; }
+.c-message__sender { color: #1a85b3; }
 
-.c-message__sender a { color: #e6e6e6; }
+.c-message__sender a { color: #1a85b3; }
 
 .c-message__sender .c-emoji__text_mode_icon { color: #949494; }
 
@@ -4496,4 +4496,6 @@ span.p-invite_users_input__label_title {color: #ccc; }
 .p-channel_sidebar__channel--muted:not(.p-channel_sidebar__channel--selected):before, .p-channel_sidebar__channel--suggested:not(.p-channel_sidebar__channel--selected):before {color: #484848; }
 
 .c-message__sender {font-weight: 600; }
+
+.c-message_kit__message {color: #949494; }
 
