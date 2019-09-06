@@ -1689,7 +1689,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .dense_theme ts-message .message_content .message_current_status { border-color: #363636; }
 
-.c-message--light .c-message__sender .c-message__sender_link { color: #e6e6e6; }
+.c-message--light .c-message__sender .c-message__sender_link { color: #1a85b3; }
 
 .light_theme ts-message { color: #e6e6e6; }
 
@@ -2605,7 +2605,7 @@ ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_c
 
 .c-app_badge, .c-app_label { color: #949494; }
 
-.c-timestamp__label { color: #e6e6e6; }
+.c-timestamp__label { color: #808080; }
 
 #whats_new_tab p { color: #e6e6e6; }
 
@@ -4495,9 +4495,5 @@ span.p-invite_users_input__label_title {color: #ccc; }
 
 .p-channel_sidebar__channel--muted:not(.p-channel_sidebar__channel--selected):before, .p-channel_sidebar__channel--suggested:not(.p-channel_sidebar__channel--selected):before {color: #484848; }
 
-.p-channel_sidebar__channel--selected:before, .p-channel_sidebar__channel--selected:hover:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__channel--selected:after, .p-channel_sidebar__channel--selected:hover:after, .p-channel_sidebar__link--selected:after, .p-channel_sidebar__link--selected:after {color: #fff67b; }
-
-.p-channel_sidebar__channel--selected .p-channel_sidebar__name {color: #fff67b; }
-
-.p-channel_sidebar__channel--selected:before, .p-channel_sidebar__channel--selected:hover:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__link--selected:before, .p-channel_sidebar__channel--selected:after, .p-channel_sidebar__channel--selected:hover:after, .p-channel_sidebar__link--selected:after, .p-channel_sidebar__link--selected:after { color: #fff67b; }
+.c-message__sender {font-weight: 600; }
 
